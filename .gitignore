@@ -1,0 +1,13 @@
+# Python debris
+__pycache__/
+*.pyc
+
+# Local configuration & database (never push these in real production)
+db.sqlite3
+.env
+
+# OS junk
+.DS_Store
+
+# Editor junk
+.vscode/
